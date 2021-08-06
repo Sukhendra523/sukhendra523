@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhendra523" alt="sukhendra523" /></a> </p>
+
 
 - 🔭 I’m currently working on [Python-for-data-science](https://github.com/Sukhendra523/Cognitiveclass-python-for-data-science)
 
