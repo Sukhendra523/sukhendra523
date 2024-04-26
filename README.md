@@ -44,29 +44,30 @@
 </p>
 
 
-![Sukhendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhendra523&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<p style="display:flex;flex-wrap: wrap;gap:16px" >
 
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="sukhendra523" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" /></p>
+ <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8)
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendra523&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sukhendra523" />
+  
+  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8" alt="sukhendra523" />
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Sukhendra523/langs)](https://githubtrends.io)
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india" alt="sukhendra523" />
+
+  <img align="center" src="https://api.githubtrends.io/user/svg/Sukhendra523/langs" alt="sukhendra523" />
+</p>
 
 
 
 ### ✍️ Quote Of The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
+<div><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sukhendra523" /></div>
