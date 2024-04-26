@@ -1,11 +1,19 @@
 <p align="center">
-  <kbd>
+<!--   <kbd>
 <img src="https://avatars.githubusercontent.com/u/44740202?s=400&v=4" width="200px" style="max-width:100%;border-radius:50%;">
-  </kbd>
+  </kbd> -->
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Sukhendra523&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Sukhendra523&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&theme=summer">
+</picture>
 </p>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://github.com/Sukhendra523">Sukhendra Rajawat</a><img src="Developer.gif" width="65px">
 </h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india)
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhendra-edcast&label=Profile%20views&color=0e75b6&style=flat" alt="sukhendra-edcast" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhendra523" alt="sukhendra523" /></a> </p>
 
@@ -48,14 +56,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india)
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Sukhendra523/langs)](https://githubtrends.io)
 
 
 
 ### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
 
 
