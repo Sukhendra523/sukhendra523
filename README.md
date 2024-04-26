@@ -48,5 +48,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" /></p>
 
-##
+
+
+
+### ✍️ Quote Of The Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
 
