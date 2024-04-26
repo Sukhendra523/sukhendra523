@@ -50,8 +50,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="sukhendra523" />
 
  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" />
-
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" />
+  
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendra523&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sukhendra523" />
   
@@ -64,7 +63,8 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india" alt="sukhendra523" />
 
-  <img align="center" src="https://api.githubtrends.io/user/svg/Sukhendra523/langs" alt="sukhendra523" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" />
+
 </p>
 
 
