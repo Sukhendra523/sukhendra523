@@ -1,12 +1,8 @@
 <p align="center">
-<!--   <kbd>
-<img src="https://avatars.githubusercontent.com/u/44740202?s=400&v=4" width="200px" style="max-width:100%;border-radius:50%;">
-  </kbd> -->
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Sukhendra523&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Sukhendra523&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&theme=summer">
-</picture>
+
+  
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=Sukhendra523&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=summer&theme=summer&color=%23ffffffFF)
+  
 </p>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://github.com/Sukhendra523">Sukhendra Rajawat</a><img src="Developer.gif" width="65px">
 </h1>
