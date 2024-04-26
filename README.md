@@ -39,11 +39,11 @@
 <a href="https://discord.gg/sukhendra523#9588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sukhendra523#9588" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+![Sukhendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhendra523&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Sukhendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" /></p>
