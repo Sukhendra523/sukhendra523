@@ -47,7 +47,7 @@
 <p style="display:flex;flex-wrap: wrap;gap:16px" >
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="sukhendra523" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="sukhendra523" />
 
  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" />
   
