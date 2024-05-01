@@ -8,9 +8,9 @@
 </h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <p>
-  <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india" height="200px" />
+  <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india" height="200px" width="60%"/>
   
-  <img  align="center" src="giphy1.gif" height="200px" />
+  <img  align="center" src="giphy1.gif" height="200px" width="30%"/>
  
 </p>
 
