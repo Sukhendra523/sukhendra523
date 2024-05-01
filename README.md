@@ -8,9 +8,9 @@
 </h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <p>
-  <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india" height="200px" width="60%"/>
+  <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india" height="200px" width="70%"/>
   
-  <img  align="center" src="giphy1.gif" height="200px" width="30%"/>
+  <img  align="center" src="giphy1.gif" height="200px" width="25%"/>
  
 </p>
 
@@ -65,16 +65,14 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendra523&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sukhendra523" />
   
-  
 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8" alt="sukhendra523" />
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8" alt="sukhendra523" />
 
 
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india" alt="sukhendra523" />
-
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" />
 
 </p>
 
