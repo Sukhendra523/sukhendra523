@@ -7,9 +7,13 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://github.com/Sukhendra523">Sukhendra Rajawat</a><img src="Developer.gif" width="65px">
 </h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india)
+<p>
+  <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india" height="200px" />
+  
+  <img  align="center" src="giphy1.gif" height="200px" />
  
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhendra-edcast&label=Profile%20views&color=0e75b6&style=flat" alt="sukhendra-edcast" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhendra523" alt="sukhendra523" /></a> </p>
 
@@ -52,7 +56,7 @@
 <p style="display:flex;flex-wrap: wrap;gap:16px" >
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="sukhendra523" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="sukhendra523" height="243px"/>
 
  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" />
   
@@ -75,4 +79,7 @@
 
 
 ### ✍️ Quote Of The Day
-<div><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sukhendra523" /></div>
+<div>
+  <img align="center" src="giphy2.gif" width="100%" height="500px"/>
+  
+</div>
