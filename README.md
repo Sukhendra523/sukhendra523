@@ -13,18 +13,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhendra-edcast&label=Profile%20views&color=0e75b6&style=flat" alt="sukhendra-edcast" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhendra523" alt="sukhendra523" /></a> </p>
 
-- 🔭 I’m currently working on [Python-for-data-science](https://github.com/Sukhendra523/Cognitiveclass-python-for-data-science)
+- 👨🏻‍💻 I’m an **Front-End Developer**
 
-- 🌱 I’m currently learning **Python For Data Science**
+- 🛠️ My current stack is **MERN**
+  
+- 👨‍💻 All of my projects are available at (https://sukhendra523.github.io/)
+
+- 💬 Ask me about **Front End Development**
+
+- 🔭 I’m currently working on [Python-for-data-science](https://github.com/Sukhendra523/Cognitiveclass-python-for-data-science)
 
 - 👯 I’m looking to collaborate on [Python-for-data-science](https://github.com/Sukhendra523/Cognitiveclass-python-for-data-science)
 
-- 💬 Ask me about **Node.js , ReactJs**
-
 - 📫 How to reach me **523sukhendra@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/uy8ljgu0zpgarbm/Sukhendra%20Rajawat%20Resume%20130721.docx?dl=0](https://www.dropbox.com/s/uy8ljgu0zpgarbm/Sukhendra%20Rajawat%20Resume%20130721.docx?dl=0)
+- 📄 Know about my experiences [https://sukhendra523.github.io/]
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sukhendra523" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sukhendra523" height="30" width="40" /></a>
