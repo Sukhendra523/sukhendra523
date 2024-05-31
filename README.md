@@ -17,22 +17,34 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhendra-edcast&label=Profile%20views&color=0e75b6&style=flat" alt="sukhendra-edcast" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhendra523&row=1&margin-w=15" alt="sukhendra523" /></a> </p>
 
-- 👨🏻‍💻 I’m an **Front-End Developer**
+- 👨🏻‍💻 I’m an passionate  **Front-End Developer**
 
 - 🛠️ My current stack is **MERN**
-  
-- 👨‍💻 All of my projects are available at (https://sukhendra523.github.io/)
 
 - 💬 Ask me about **Front End Development**
 
-- 🔭 I’m currently working on [Python-for-data-science](https://github.com/Sukhendra523/Cognitiveclass-python-for-data-science)
-
-- 👯 I’m looking to collaborate on [Python-for-data-science](https://github.com/Sukhendra523/Cognitiveclass-python-for-data-science)
+- 👯 I’m looking to collaborate on [Components-Library](https://github.com/Sukhendra523/components-library) and [Custom-hooks](https://github.com/Sukhendra523/custom-hooks) 
 
 - 📫 How to reach me **523sukhendra@gmail.com**
 
-- 📄 Know about my experiences [https://sukhendra523.github.io/]
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1XCzAyhTJBG2d_pUc206VeRZ8WjBNVAul/view)
 
+<h2>My Projects List</h2>
+<ul>
+  <li>
+    
+  </li>
+  <li>
+    
+  </li>
+  <li>
+    
+  </li>
+  <li></li>
+   <li></li>
+    <li></li>
+    
+</ul>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +64,7 @@
 <a href="https://discord.gg/sukhendra523#9588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sukhendra523#9588" height="30" width="40" /></a>
 </p>
 
-
+<h2>My Git Stats</h2>
 <p style="display:flex;flex-wrap: wrap;gap:16px" >
 
 
@@ -78,7 +90,7 @@
 
 
 
-### ✍️ Quote Of The Day
+<h2>✍️ Quote Of The Day</h2> 
 <div>
   <img align="center" src="giphy2.gif" width="100%" height="500px"/>
   
