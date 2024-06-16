@@ -17,17 +17,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhendra-edcast&label=Profile%20views&color=0e75b6&style=flat" alt="sukhendra-edcast" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhendra523&row=1&margin-w=15" alt="sukhendra523" /></a> </p>
 
-- 👨🏻‍💻 I’m an passionate  **Front-End Developer**
-
-- 🛠️ My current stack is **MERN**
-
 - 💬 Ask me about **Front End Development**
 
 - 👯 I’m looking to collaborate on [Components-Library](https://github.com/Sukhendra523/components-library) and [Custom-hooks](https://github.com/Sukhendra523/custom-hooks) 
 
 - 📫 How to reach me **523sukhendra@gmail.com**
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1r3FOMqxb1ahlY1O2WJQLHc1a_TM_a50hpE3xzBkciww/edit?usp=sharing)
+- 📄 View/Download my [CV](https://docs.google.com/document/d/1r3FOMqxb1ahlY1O2WJQLHc1a_TM_a50hpE3xzBkciww/edit?usp=sharing)
+- 🌍 Explore my [Portfolio](https://sukhendra523.github.io/)
 
 <h2>My Projects List</h2>
 <ul>
