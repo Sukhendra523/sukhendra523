@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **523sukhendra@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1XCzAyhTJBG2d_pUc206VeRZ8WjBNVAul/view)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1r3FOMqxb1ahlY1O2WJQLHc1a_TM_a50hpE3xzBkciww/edit?usp=sharing)
 
 <h2>My Projects List</h2>
 <ul>
