@@ -7,10 +7,9 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://github.com/Sukhendra523">Sukhendra Rajawat</a><img src="Developer.gif" width="65px">
 </h1>
 <p align="center">A passionate <b>Front-end developer</b> from India</p>
-<p>
+<p  align="center">
   <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhendra523&theme=flag_india" height="200px" width="70%"/>
   
-  <img  align="center" src="giphy1.gif" height="200px" width="25%"/>
  
 </p>
 
