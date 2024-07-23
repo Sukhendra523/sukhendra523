@@ -90,7 +90,7 @@ npm i components-library-by-sukhendra523
 
 <div align="center" >
  <img height="270px" width="325px" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="sukhendra523" /> 
- <img height="270px" width="325px" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" />
+ <img height="270px" width="350px" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" />
 </div>
 
 <div align="center">
