@@ -94,8 +94,8 @@ npm i components-library-by-sukhendra523
 </div>
 
 <div align="center">
-  <img  height="270px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8" alt="sukhendra523" />
-  <img  height="270px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india" alt="sukhendra523" />
+  <img  height="270px" width="345px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8" alt="sukhendra523" />
+  <img  height="270px" width="345px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india" alt="sukhendra523" />
 </div>
   <img  height="180px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendra523&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sukhendra523" />
 </div>
