@@ -83,23 +83,23 @@ npm i components-library-by-sukhendra523
 </p>
 
 <h2>My Git Stats</h2>
-<p  >
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="sukhendra523" height="243px" width="45%"/> 
-
- <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" width="45%" height="243px"/>
-
- <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" />
- </div>
 <div align="center">
-  <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendra523&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sukhendra523" />
-  <img  height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8" alt="sukhendra523" />
-  <img  height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india" alt="sukhendra523" />
+ <div align="center">
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendra523&" alt="sukhendra523" />
+ </div>
+
+<div align="center" >
+ <img height="180px" src="https://github-readme-stats.vercel.app/api?username=sukhendra523&show_icons=true\&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="sukhendra523" height="243px" width="45%"/> 
+ <img height="180px" src="https://github-contributor-stats.vercel.app/api?username=Sukhendra523&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="sukhendra523" width="45%" height="243px"/>
 </div>
 
-</p>
+<div align="center">
+  <img  height="180px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendra523&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sukhendra523" />
+  <img  height="180px" width="300px"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhendra523&theme=flag_india&utcOffset=8" alt="sukhendra523" />
+  <img  height="180px" width="300px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhendra523&theme=flag_india" alt="sukhendra523" />
+</div>
+</div>
+
 
 
 
