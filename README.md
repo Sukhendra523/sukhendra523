@@ -36,8 +36,17 @@ npm i components-library-by-sukhendra523
 <h2>My Projects List</h2>
 <ul>
   <li>
+    <b>Promtodia	</b> discover & share AI prompts using Next.js <a href="https://discover-share-ai-prompts.vercel.app" target="_blank"> View </a>
+  </li>
+
+  <li>
+    <b>Video Conference App</b> using React Hook, Custom Hook and Jitsi Meet Lib. <a href="https://codesandbox.io/p/sandbox/github/Sukhendra523/video-conference-app/tree/master" target="_blank"> View </a
+  </li>
+
+  <li>
     <b>Advance Tic-Tac-Toe Game</b> using React Hooks and Custom Hooks. <a href="https://sukhendra523.github.io/advance-tic-tac-toe" target="_blank"> View </a>
   </li>
+  
   <li>
   <b>Draggable Sticky Notes App</b> using React Hooks, HOC, HTML5 Drag-Drop API. <a href="https://sukhendra523.github.io/draggable-sticky-notes" target="_blank"> View </a>
     
@@ -45,9 +54,6 @@ npm i components-library-by-sukhendra523
   <li>
   <b>Draggable Task Manger App</b> using React Hooks, HTML5 Drag-Drop API and Context API. <a href="https://sukhendra523.github.io/draggable-task-manager" target="_blank"> View </a>
     
-  </li>
-  <li>
-    <b>Video Conference App</b> using React Hook, Custom Hook and Jitsi Meet Lib. <a href="https://codesandbox.io/p/sandbox/github/Sukhendra523/video-conference-app/tree/master" target="_blank"> View </a
   </li>
    <li>
      <b>Google UI Clone</b> using React Hook, Context API and Google Custom Search API.<a href="https://codesandbox.io/p/sandbox/github/Sukhendra523/google-clone/tree/master" target="_blank"> View </a>
