@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Front End Development**
 
-- 👯 I’m looking to collaborate on [Components-Library](https://github.com/Sukhendra523/components-library) and [Custom-hooks](https://github.com/Sukhendra523/custom-hooks) 
+- 👯 I’m looking to collaborate on 🎯 [React Machine Coding Challenge](https://github.com/Sukhendra523/react-problem-practice) and [Custom-hooks](https://github.com/Sukhendra523/custom-hooks) 
 
 - 📫 How to reach me **523sukhendra@gmail.com**
 
